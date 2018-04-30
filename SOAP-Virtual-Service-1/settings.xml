@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<con:mockService id="1f36b595-5836-4430-bbb5-6175f2d782c9" port="8080" path="/" host="localhost" name="SOAP Virtual Service 1" xmlns:con="http://eviware.com/soapui/config"><con:settings><con:setting id="com.eviware.soapui.impl.wsdl.mock.WsdlMockService@require-soap-action">false</con:setting><con:setting id="1f36b595-5836-4430-bbb5-6175f2d782c9fileName">SOAP-Virtual-Service-1</con:setting></con:settings><con:properties/><con:dataSources/><con:headerValidator/></con:mockService>
